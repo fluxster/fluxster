@@ -1,0 +1,25 @@
+{
+  "name": "fluxster",
+  "version": "0.0.1",
+  "description": "Flux Wrapper for Helping with Isomorphic React & Flux",
+  "main": "fluxster.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fluxster/fluxster.git"
+  },
+  "author": "Chris Homer",
+  "license": {
+    "type": "BSD",
+    "url": "https://github.com/fluxster/fluxster/blob/master/LICENSE.md"
+  },
+  "bugs": {
+    "url": "https://github.com/fluxster/fluxster/issues"
+  },
+  "homepage": "https://github.com/fluxster/fluxster",
+  "dependencies": {
+    "object-assign": "^2.0.0"
+  }
+}
